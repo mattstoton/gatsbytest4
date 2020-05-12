@@ -11,3 +11,5 @@ fields:
     schema:
       format: markdown
   label: asdasd
+pages:
+- src/content/posts/post1.md
